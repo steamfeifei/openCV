@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-'''
+''' 
     从文件中导入视频文件
 '''
 
