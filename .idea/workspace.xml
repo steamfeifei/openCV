@@ -2,11 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9df99b3-1d20-43f9-a221-46c2ac11a1d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/IMG_0166.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0167.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0168.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0169.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0170.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0171.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0172.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0173.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0174.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0175.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0176.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0177.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0178.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IMG_0179.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/12-threshold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/13-AvgBlur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/14-boxFilter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/15-GaussionBlur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/16-medianBlur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/16-中值滤波去掉干扰.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test01/17-imgeErode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/openCV1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/openCV1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test01/day01/10-resizeImg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test01/day01/10-resizeImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/test01/10-resizeImg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test01/day01/11-flipImg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test01/day01/11-flipImg.py" beforeDir="false" afterPath="$PROJECT_DIR$/test01/11-flipImg.py" afterDir="false" />
     </list>
     <ignored path="E:\gaofeiSoftWare\PythonWorkSpace\openCV1\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,17 +36,31 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/openCV1$01imgShow.coverage" NAME="01imgShow Coverage Results" MODIFIED="1548342689050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01/day01" />
+    <SUITE FILE_PATH="coverage/openCV1$16_.coverage" NAME="16-中值滤波去掉干扰 Coverage Results" MODIFIED="1548409238206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
     <SUITE FILE_PATH="coverage/openCV1$Part2_05_02openCV02_playVideoFromFile.coverage" NAME="Part2-05-02openCV02-playVideoFromFile Coverage Results" MODIFIED="1548338760526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
+    <SUITE FILE_PATH="coverage/openCV1$17_imgeErode.coverage" NAME="17-imgeErode Coverage Results" MODIFIED="1548412317436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
     <SUITE FILE_PATH="coverage/openCV1$Part3_04_openCV_playVideoFromFile.coverage" NAME="Part3-04-openCV-playVideoFromFile Coverage Results" MODIFIED="1548337660761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
+    <SUITE FILE_PATH="coverage/openCV1$13_AvgBlur.coverage" NAME="13-AvgBlur Coverage Results" MODIFIED="1548405687889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
+    <SUITE FILE_PATH="coverage/openCV1$16_medianBlur.coverage" NAME="16-medianBlur Coverage Results" MODIFIED="1548409082137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
+    <SUITE FILE_PATH="coverage/openCV1$15_GaussionBlur.coverage" NAME="15-GaussionBlur Coverage Results" MODIFIED="1548409164982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
     <SUITE FILE_PATH="coverage/openCV1$10_resizeImg.coverage" NAME="10-resizeImg Coverage Results" MODIFIED="1548397741336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01/day01" />
+    <SUITE FILE_PATH="coverage/openCV1$12_threshold.coverage" NAME="12-threshold Coverage Results" MODIFIED="1548403349910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
+    <SUITE FILE_PATH="coverage/openCV1$14_boxFilter.coverage" NAME="14-boxFilter Coverage Results" MODIFIED="1548406592930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
     <SUITE FILE_PATH="coverage/openCV1$Part3_04_openCV_Video.coverage" NAME="Part3-04-openCV-Video Coverage Results" MODIFIED="1548335938076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01" />
     <SUITE FILE_PATH="coverage/openCV1$11_flipImg.coverage" NAME="11-flipImg Coverage Results" MODIFIED="1548397886141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test01/day01" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test01/09-resizeImg.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/test01/17-imgeErode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -60,12 +93,20 @@
         <option value="$PROJECT_DIR$/test01/day01/01imgShow.py" />
         <option value="$PROJECT_DIR$/test01/day01/10-resizeImg.py" />
         <option value="$PROJECT_DIR$/test01/day01/11-flipImg.py" />
+        <option value="$PROJECT_DIR$/test01/12-threshold.py" />
+        <option value="$PROJECT_DIR$/test01/13-AvgBlur.py" />
+        <option value="$PROJECT_DIR$/test01/14-boxFilter.py" />
+        <option value="$PROJECT_DIR$/test01/15-GaussionBlur.py" />
+        <option value="$PROJECT_DIR$/test01/16-medianBlur.py" />
+        <option value="$PROJECT_DIR$/test01/day01/16-中值滤波去掉干扰.py" />
+        <option value="$PROJECT_DIR$/test01/16-中值滤波去掉干扰.py" />
+        <option value="$PROJECT_DIR$/test01/17-imgeErode.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="213" />
-    <option name="y" value="2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="365" />
+    <option name="y" value="23" />
     <option name="width" value="1592" />
     <option name="height" value="1015" />
   </component>
@@ -85,6 +126,11 @@
             <path>
               <item name="openCV1" type="b2602c69:ProjectViewProjectNode" />
               <item name="openCV1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="openCV1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="openCV1" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="openCV1" type="b2602c69:ProjectViewProjectNode" />
@@ -117,7 +163,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\gaofeiSoftWare\PythonWorkSpace\openCV1\test01" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gaofeiSoftWare\PythonWorkSpace\openCV1\images" />
       <recent name="E:\gaofeiSoftWare\PythonWorkSpace\openCV1\videos" />
       <recent name="E:\gaofeiSoftWare\PythonWorkSpace\openCV1\test01" />
       <recent name="E:\gaofeiSoftWare\PythonWorkSpace\openCV1" />
@@ -135,74 +185,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11-flipImg">
-    <configuration name="01imgShow" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="openCV1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test01/day01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01/day01/01imgShow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10-resizeImg" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="openCV1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test01/day01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01/day01/10-resizeImg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11-flipImg" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="openCV1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test01/day01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01/day01/11-flipImg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Part3-04-openCV-Video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.17-imgeErode">
+    <configuration name="14-boxFilter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="openCV1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,7 +199,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\gaofeiSoftWare\PythonWorkSpace\openCV1\test01\Part2-05-01openCV-Video.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01/14-boxFilter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Part3-04-openCV-playVideoFromFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15-GaussionBlur" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="openCV1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +221,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\gaofeiSoftWare\PythonWorkSpace\openCV1\test01\Part2-05-02openCV02-playVideoFromFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01/15-GaussionBlur.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16-中值滤波去掉干扰" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="openCV1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01/16-中值滤波去掉干扰.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16-medianBlur" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="openCV1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01/16-medianBlur.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17-imgeErode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="openCV1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test01/17-imgeErode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11-flipImg" />
-        <item itemvalue="Python.10-resizeImg" />
-        <item itemvalue="Python.01imgShow" />
-        <item itemvalue="Python.Part3-04-openCV-Video" />
-        <item itemvalue="Python.Part3-04-openCV-playVideoFromFile" />
+        <item itemvalue="Python.17-imgeErode" />
+        <item itemvalue="Python.16-中值滤波去掉干扰" />
+        <item itemvalue="Python.15-GaussionBlur" />
+        <item itemvalue="Python.16-medianBlur" />
+        <item itemvalue="Python.14-boxFilter" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +318,7 @@
       <updated>1548329648477</updated>
       <workItem from="1548329649886" duration="7972000" />
       <workItem from="1548342019505" duration="682000" />
-      <workItem from="1548396259710" duration="2972000" />
+      <workItem from="1548396259710" duration="11954000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1548329845640</created>
@@ -312,11 +362,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548397148680</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="初始化11">
+      <created>1548401839090</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1548401839090</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11626000" />
+    <option name="totallyTimeSpent" value="20608000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,15 +385,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="213" y="2" width="1592" height="1015" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21146245" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1722103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6864295" weight="0.31139836" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6864295" visible="true" weight="0.29909706" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,8 +402,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49964002" weight="0.18566392" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3135705" side_tool="true" weight="0.31139836" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32902467" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32949308" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32902467" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32902467" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -430,13 +487,6 @@
     <entry file="file://$PROJECT_DIR$/test01/Part2-05-01openCV-Video.py" />
     <entry file="file://$PROJECT_DIR$/test01/Part2-05-03openCV-saveVideo.py" />
     <entry file="file://$PROJECT_DIR$/test01/Part2-05-02openCV02-playVideoFromFile.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1104243379/cv2/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="7258" column="6" lean-forward="true" selection-start-line="7258" selection-start-column="6" selection-end-line="7258" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test01/day01/01imgShow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -461,16 +511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test01/11-flipImg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test01/10-resizeImg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -483,6 +523,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test01/09-resizeImg.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01/11-flipImg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/airfield.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01/12-threshold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding>
+            <element signature="e#10#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1104243379/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2625" column="66" selection-start-line="2625" selection-start-column="57" selection-end-line="2625" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01/13-AvgBlur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01/14-boxFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="85" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01/16-medianBlur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="27" lean-forward="true" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01/16-中值滤波去掉干扰.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01/15-GaussionBlur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/A.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/add/lena.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/add/OpenCV.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01/17-imgeErode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
