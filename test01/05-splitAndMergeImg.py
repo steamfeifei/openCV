@@ -1,0 +1,35 @@
+import numpy as np
+import cv2
+
+a = cv2.imread('../images/2.jpg')
+b, g, r = cv2.split(a)
+# cv2.imshow('a', a)
+# cv2.imshow('b', b)
+# cv2.imshow('g', g)
+# cv2.imshow('r', r)
+print(a)
+print(b)
+print(g)
+print(r)
+
+# b = np.ones(a.shape[:2],a.dtype)
+# g = np.ones(a.shape[:2],a.dtype)
+# # r = np.ones(a.shape[:2],a.dtype)
+# m = cv2.merge([b, g, r])
+# # m = cv2.merge([r, g, b])
+# cv2.imshow('m', m)
+# cv2.waitKey()
+# cv2.destroyAllWindows()
+
+# print(m.shape,m)
+# print(b.shape)
+
+print(a.shape)
+b = np.ones(a.shape[:2], a.dtype)
+g = np.ones(a.shape[:2], a.dtype)
+# r = np.ones(a.shape[:,2], a.dtype)
+m = cv2.merge([b, g, r])
+cv2.imshow('aaa', m)
+cv2.waitKey()
+print(m.shape)
+print(m)
